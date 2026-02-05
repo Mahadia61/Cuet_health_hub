@@ -1,7 +1,7 @@
 // 1. INITIALIZE SUPABASE
 // KEEP YOUR KEYS FROM BEFORE!
-const SUPABASE_URL = "YOUR_SUPABASE_URL_HERE"; 
-const SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_KEY_HERE";
+const SUPABASE_URL = "https://vgtnicoxzpkyobtpihoi.supabase.co"; 
+const SUPABASE_ANON_KEY = "sb_publishable_77O6j1xEzWkugLccIE1RlQ_5Itk9XfO";
 
 const client = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
